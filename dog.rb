@@ -35,3 +35,5 @@ dog.age = 3
 dog.report_age
 dog.talk
 dog.move("his mama")
+dog = Dog.new
+dog.name = ""
